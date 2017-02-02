@@ -8,3 +8,4 @@
  
 ## Angular2
  - https://www.joshmorony.com/tag/ionic2/
+ - https://javebratt.com/signup/?ref=Tweet
