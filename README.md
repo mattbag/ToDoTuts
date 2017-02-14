@@ -1,6 +1,7 @@
-# ToDoTuts
+# Resources
 
 ## Angular2
+- https://school.scotch.io/routing-angular-2-applications
  - https://www.joshmorony.com/tag/ionic2/
  - https://javebratt.com/signup/?ref=Tweet
  - https://coursetro.com/posts
