@@ -2,9 +2,9 @@
 
 ## Angular2
 - https://school.scotch.io/routing-angular-2-applications
- - https://www.joshmorony.com/tag/ionic2/
- - https://javebratt.com/signup/?ref=Tweet
- - https://coursetro.com/posts
+- https://www.joshmorony.com/tag/ionic2/
+- https://javebratt.com/signup/?ref=Tweet
+- https://coursetro.com/posts
  
  
 ## React
@@ -13,3 +13,5 @@
  - https://egghead.io/courses/build-your-first-production-quality-react-app?utm_source=drip&utm_medium=email&utm_campaign=production-quality-react
  - https://medium.com/@sgroff04/how-i-learned-react-and-how-you-can-too-6714a48e984a#.fegjorhw5
  
+## Mix
+- https://github.com/terkelg/awesome-creative-coding
