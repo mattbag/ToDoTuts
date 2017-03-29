@@ -15,5 +15,9 @@
  - https://egghead.io/courses/build-your-first-production-quality-react-app?utm_source=drip&utm_medium=email&utm_campaign=production-quality-react
  - https://medium.com/@sgroff04/how-i-learned-react-and-how-you-can-too-6714a48e984a#.fegjorhw5
  
+### NativeScript
+- https://egghead.io/courses/nativescript-layout-basics?utm_source=twitter&utm_medium=social&utm_campaign=nativescript-layout-basics
+- https://egghead.io/courses/use-objective-c-swift-and-java-api-s-in-nativescript-for-angular-ios-and-android-apps?utm_source=twitter&utm_medium=social&utm_campaign=nativescript-swift-java
+
 ## Mix
 - https://github.com/terkelg/awesome-creative-coding
