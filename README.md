@@ -7,6 +7,9 @@
 - https://coursetro.com/posts
 - https://scotch.io/tutorials/server-side-rendering-in-angular-2-with-angular-universal
 - https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f#.w4o6qhmjc
+
+### Ionic
+- https://github.com/shprink/wordpress-hybrid-client
  
  
 ## React
