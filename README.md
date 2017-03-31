@@ -1,5 +1,9 @@
 # Resources
 
+## Vanilla
+- https://javascript30.com
+- https://www.codewars.com/users/sign_in
+
 ## Angular2
 - https://school.scotch.io/routing-angular-2-applications
 - https://www.joshmorony.com/tag/ionic2/
@@ -24,3 +28,13 @@
 
 ## Mix
 - https://github.com/terkelg/awesome-creative-coding
+- https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/learning.html
+
+## Cool stuff
+- bodymoving AE
+- https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/learning.html
+- https://manu.ninja/webgl-3d-model-viewer-using-three-js
+- https://phenomic.io
+- https://github.com/Okazari/Rythm.js
+- http://codeblog.cz/vanilla/attributes.html#set-attribute-to-the-set-of-elements
+- https://webdesign.tutsplus.com/articles/svg-brilliance-10-inspiring-examples-from-around-the-web--cms-27050
