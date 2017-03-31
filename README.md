@@ -6,14 +6,14 @@
 
 ## Angular2
 - https://school.scotch.io/routing-angular-2-applications
-- https://www.joshmorony.com/tag/ionic2/
-- https://javebratt.com/signup/?ref=Tweet
 - https://coursetro.com/posts
 - https://scotch.io/tutorials/server-side-rendering-in-angular-2-with-angular-universal
 - https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f#.w4o6qhmjc
 
 ### Ionic
 - https://github.com/shprink/wordpress-hybrid-client
+- https://www.joshmorony.com/tag/ionic2/
+- https://javebratt.com/signup/?ref=Tweet
  
  
 ## React
