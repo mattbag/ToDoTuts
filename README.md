@@ -14,6 +14,7 @@
 - https://github.com/shprink/wordpress-hybrid-client
 - https://www.joshmorony.com/tag/ionic2/
 - https://javebratt.com/signup/?ref=Tweet
+- https://chriztalk.com/ionic-2-firebase-google-authentication/
  
  
 ## React
