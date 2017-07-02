@@ -1,8 +1,13 @@
 # Resources
 
+- https://github.com/dexteryy/spellbook-of-modern-webdev
+
 ## Vanilla
 - https://javascript30.com
 - https://www.codewars.com/users/sign_in
+
+## PWA
+- https://scotch.io/tutorials/the-ultimate-guide-to-progressive-web-applications
 
 ## Angular2
 - https://school.scotch.io/routing-angular-2-applications
@@ -18,6 +23,7 @@
  
  
 ## React
+- https://github.com/dabbott/react-express
  - https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app
  - https://scotch.io/tutorials/react-universal-with-next-js-server-side-react?utm_content=buffer569c8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
  - https://egghead.io/courses/build-your-first-production-quality-react-app?utm_source=drip&utm_medium=email&utm_campaign=production-quality-react
@@ -32,6 +38,7 @@
 - https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/learning.html
 
 ## Cool stuff
+- https://golden-layout.com
 - bodymoving AE
 - https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/learning.html
 - https://manu.ninja/webgl-3d-model-viewer-using-three-js
